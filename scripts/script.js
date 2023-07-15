@@ -28,7 +28,7 @@ const getLaptops = async () => {
     }
 };
 
-
+   
 
 
 const renderLaptops = (data) => {
